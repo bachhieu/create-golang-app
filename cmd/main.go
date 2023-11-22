@@ -20,6 +20,8 @@ func main() {
 	}
 	for _, i := range a {
 		fmt.Println(string(i))
-
 	}
+
+	fmt.Println("done")
+
 }
